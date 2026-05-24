@@ -15,6 +15,7 @@ PASSWORD = "Faryal Boughzala51"
 
 cl = Client()
 print("جاري تسجيل الدخول إلى إنستغرام...")
+cl.load_settings("settings.json")
 cl.login(USERNAME, PASSWORD)
 print("تم تسجيل الدخول بنجاح! البوت يعمل الآن...")
 
