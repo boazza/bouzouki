@@ -1,2 +1,7 @@
 instagrapi
+instagrapi
 groq
+SpeechRecognition
+requests
+pydub
+gtts
