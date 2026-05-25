@@ -1,286 +1,55 @@
 {
-  "CloseToTray": false,
-  "ShowAll": true,
-  "HidGuardianEnabled": false,
-  "DisableAutoRefresh": false,
-  "Language": "English",
-  "Input": {
-    "1153d230-c009-11f0-8001-444553540000": {
-      "ForceFeedback": false
+    "uuids": {
+        "phone_id": "5b21c6be-9abc-442d-ab51-cec48b9825d7",
+        "uuid": "22a7a446-96bb-4bd8-8692-623c15230de0",
+        "client_session_id": "4055875b-eee2-4966-9cfd-8f343e4aa084",
+        "advertising_id": "6401b3d9-1c46-4b4a-8151-8d28871a3f3b",
+        "android_device_id": "android-e7b4236da1240c51",
+        "request_id": "5738ea56-6178-415f-ba16-2ee54c38ed69",
+        "tray_session_id": "f55e901d-c8af-436e-9caf-c28000d56049"
     },
-    "Keyboard": {
-      "ForceFeedback": false
+    "mid": "ahRhrQABAAEP43XKmJBbDt1-J3Ml",
+    "ig_u_rur": null,
+    "ig_www_claim": null,
+    "authorization_data": {
+        "ds_user_id": "78682150113",
+        "sessionid": "78682150113%3AeTMXvRzYVOUVY1%3A16%3AAYh8R2-8Q5KZvuNu7QOj7kN6NDvC629p-aT7k2LRKQ"
     },
-    "Mouse": {
-      "ForceFeedback": false
+    "cookies": {},
+    "last_login": 1779720642.4066937,
+    "device_settings": {
+        "android_version": 34,
+        "android_release": "14",
+        "dpi": "480dpi",
+        "resolution": "1344x2992",
+        "manufacturer": "Google/google",
+        "device": "husky",
+        "model": "Pixel 8 Pro",
+        "cpu": "husky",
+        "app_version": "428.0.0.47.67",
+        "version_code": "961145276",
+        "bloks_versioning_id": "7189b949425f9bf80ea8bd880cf5a3080b292d9b1c4b38a18d112f7c4b71e7a8"
     },
-    "d25d1560-a1df-11f0-8001-444553540000": {
-      "ForceFeedback": false
-    },
-    "d27b24b0-a1df-11f0-8002-444553540000": {
-      "ForceFeedback": false
-    }
-  },
-  "Mapping": [
-    {
-      "StartWhenConnected": false,
-      "Name": "Controller",
-      "Id": "b221b0ab-6b50-4e2a-af31-b7b2f6e3ad64",
-      "ForceFeedbackDevice": null,
-      "Mappings": {
-        "A": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "26",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "B": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "25",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "X": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "27",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "Y": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "24",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "L1": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "28",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "R1": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "29",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "L3": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "34",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "R3": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "35",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "Start": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "33",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "Back": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "32",
-              "MinValue": 0.0,
-              "MaxValue": 0.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "Home": {
-          "Mappers": [
-            {
-              "InputDevice": null,
-              "InputType": "0",
-              "MinValue": 0.0,
-              "MaxValue": 0.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "LX": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "4",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "LY": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "0",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "RX": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "12",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "RY": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "8",
-              "MinValue": 1.0,
-              "MaxValue": 0.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "L2": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "30",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "R2": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "31",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "UP": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "1000",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "DOWN": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "1001",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "LEFT": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "1002",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        },
-        "RIGHT": {
-          "Mappers": [
-            {
-              "InputDevice": "1153d230-c009-11f0-8001-444553540000",
-              "InputType": "1003",
-              "MinValue": 0.0,
-              "MaxValue": 1.0,
-              "Deadzone": 0.0
-            }
-          ],
-          "CenterPoint": 0.0
-        }
-      }
-    }
-  ]
+    "user_agent": "Instagram 428.0.0.47.67 Android (34/14; 480dpi; 1344x2992; Google/google; Pixel 8 Pro; husky; husky; en_US; 961145276)",
+    "country": "US",
+    "country_code": 1,
+    "locale": "en_US",
+    "timezone_offset": -14400,
+    "timezone_name": "GMT-04:00",
+    "push_disabled": true,
+    "request_timeout": 1,
+    "public_request_retries_count": 3,
+    "public_request_retries_timeout": 2,
+    "session_retry_total": 3,
+    "session_retry_backoff_factor": 2,
+    "session_retry_statuses": [
+        429,
+        500,
+        502,
+        503,
+        504
+    ],
+    "public_transport": "requests",
+    "public_transport_impersonate": "chrome136",
+    "tls_verify": true
 }
